@@ -3,9 +3,8 @@
 
 ## Folder Contents
 - A `Resources` folder containing all the data we'll be using for this exercise.
-- A `Visuals` folder containing most of the Bokeh charts that can't be previewed on Github (reproduced here in the ReadMe instead)
 - A `.gitignore` file that ignores common things like PyCache, Jupyter Notebook checkpoints, and other common gitignorable Python entities. 
-- A main `Crypto_Clustering` Jupyter Notebook file that uses the Scikit-Learn module to let us learn about any hidden patterns in our data.
+- A main `credit_risk_classification` Jupyter Notebook file that uses the Scikit-Learn module to let us analyze our data and make predictions.
 - This `README.md` file will serve as the Credit Risk Analysis Report about the data used.
 
 ### Installation/Prerequisites
